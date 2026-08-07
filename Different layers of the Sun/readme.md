@@ -58,7 +58,7 @@ A small amount of mass is converted into energy according to Einstein's equation
 
 Therefore, the core can be considered the **power-generating region of the Sun**.
 
-![Different layers of the Sun](Core.jpg)
+![Different layers of the Sun](images/Core.jpg)
 
 ---
 
