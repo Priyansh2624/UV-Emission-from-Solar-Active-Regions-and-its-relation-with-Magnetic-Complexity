@@ -357,8 +357,6 @@ They are particularly common above:
 
 # Solar Wind
 
-![Different layers of the Sun](images/Solar_Wind.wbep)
-
 The corona gradually expands outward into space and produces the **solar wind**.
 
 The solar wind consists primarily of charged particles such as:
