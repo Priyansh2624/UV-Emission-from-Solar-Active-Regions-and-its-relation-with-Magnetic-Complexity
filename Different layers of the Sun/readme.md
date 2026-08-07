@@ -91,6 +91,10 @@ Because photons interact continuously with the surrounding plasma, energy does n
 Instead, it undergoes a complicated **random walk** through the solar interior.
 It may take thousands to millions of years for photons to pass through this layer.
 
+![Different layers of the Sun](images/Radiative Zone.jpg)
+
+![Different layers of the Sun](images/Radiative Zone2.jpg)
+
 ---
 
 # 3. Tachocline
