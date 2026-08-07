@@ -342,19 +342,8 @@ The corona is strongly influenced by the Sun's magnetic field.
 
 Hot plasma follows magnetic field structures and produces large arch-like features called **coronal loops**.
 
-A simplified structure is:
 
-```text
-             CORONA
-
-             Plasma
-          ╭──────────╮
-         ╱            ╲
-        ╱              ╲
-      (+)              (-)
-       │                │
-       │  Photosphere   │
-```
+![Different layers of the Sun](images/Coronal_Loops.jpg)
 
 Coronal loops commonly connect regions of opposite magnetic polarity.
 
@@ -367,6 +356,8 @@ They are particularly common above:
 ---
 
 # Solar Wind
+
+![Different layers of the Sun](images/Solar_Wind.jpg)
 
 The corona gradually expands outward into space and produces the **solar wind**.
 
@@ -448,7 +439,7 @@ When the solar wind interacts with Earth's magnetosphere, it can contribute to:
 
 # Important Temperature Trend
 
-The temperature of the Sun does **not** continuously decrease as we move away from its center.
+The temperature of the Sun does not continuously decrease as we move away from its center.
 
 Initially:
 
